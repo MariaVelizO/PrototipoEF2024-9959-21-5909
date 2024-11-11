@@ -1,0 +1,9 @@
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\Capa_Controlador_Banco\bin\Debug\Capa_Controlador_Banco.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\Capa_Controlador_Banco\bin\Debug\Capa_Controlador_Banco.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\Capa_Controlador_Banco\bin\Debug\Capa_Modelo_Banco.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\Capa_Controlador_Banco\bin\Debug\Capa_Modelo_Banco.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\Capa_Controlador_Banco\obj\Debug\Capa_Controlador_Banco.csproj.AssemblyReference.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\Capa_Controlador_Banco\obj\Debug\Capa_Controlador_Banco.csproj.CoreCompileInputs.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\Capa_Controlador_Banco\obj\Debug\Capa_Controlador_Banco.csproj.CopyComplete
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\Capa_Controlador_Banco\obj\Debug\Capa_Controlador_Banco.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Bancos\Bancos\Capa_Controlador_Banco\obj\Debug\Capa_Controlador_Banco.pdb

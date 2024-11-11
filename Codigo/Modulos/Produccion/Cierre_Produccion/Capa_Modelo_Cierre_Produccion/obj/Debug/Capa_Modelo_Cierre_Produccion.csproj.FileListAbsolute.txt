@@ -1,0 +1,6 @@
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Cierre_Produccion\Capa_Modelo_Cierre_Produccion\bin\Debug\Capa_Modelo_Cierre_Produccion.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Cierre_Produccion\Capa_Modelo_Cierre_Produccion\bin\Debug\Capa_Modelo_Cierre_Produccion.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Cierre_Produccion\Capa_Modelo_Cierre_Produccion\obj\Debug\Capa_Modelo_Cierre_Produccion.csproj.AssemblyReference.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Cierre_Produccion\Capa_Modelo_Cierre_Produccion\obj\Debug\Capa_Modelo_Cierre_Produccion.csproj.CoreCompileInputs.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Cierre_Produccion\Capa_Modelo_Cierre_Produccion\obj\Debug\Capa_Modelo_Cierre_Produccion.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Cierre_Produccion\Capa_Modelo_Cierre_Produccion\obj\Debug\Capa_Modelo_Cierre_Produccion.pdb

@@ -1,0 +1,18 @@
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Capa_Controlador_OrdenCompra\bin\Debug\Capa_Controlador_OrdenCompra.dll
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Capa_Controlador_OrdenCompra\bin\Debug\Capa_Controlador_OrdenCompra.pdb
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Capa_Controlador_OrdenCompra\obj\Debug\Capa_Controlador_OrdenCompra.csproj.AssemblyReference.cache
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Capa_Controlador_OrdenCompra\obj\Debug\Capa_Controlador_OrdenCompra.csproj.CoreCompileInputs.cache
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Capa_Controlador_OrdenCompra\obj\Debug\Capa_Controlador_OrdenCompra.dll
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Capa_Controlador_OrdenCompra\obj\Debug\Capa_Controlador_OrdenCompra.pdb
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Capa_Controlador_OrdenCompra\bin\Debug\Capa_Modelo_OrdenCompra.dll
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Capa_Controlador_OrdenCompra\bin\Debug\Capa_Modelo_OrdenCompra.pdb
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Capa_Controlador_OrdenCompra\obj\Debug\Capa_Controlador_OrdenCompra.csproj.CopyComplete
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Capa_Controlador_OrdenCompra\bin\Debug\Capa_Controlador_OrdenCompra.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Capa_Controlador_OrdenCompra\bin\Debug\Capa_Controlador_OrdenCompra.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Capa_Controlador_OrdenCompra\bin\Debug\Capa_Modelo_OrdenCompra.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Capa_Controlador_OrdenCompra\bin\Debug\Capa_Modelo_OrdenCompra.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Capa_Controlador_OrdenCompra\obj\Debug\Capa_Controlador_OrdenCompra.csproj.AssemblyReference.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Capa_Controlador_OrdenCompra\obj\Debug\Capa_Controlador_OrdenCompra.csproj.CoreCompileInputs.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Capa_Controlador_OrdenCompra\obj\Debug\Capa_Controlador_OrdenCompra.csproj.CopyComplete
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Capa_Controlador_OrdenCompra\obj\Debug\Capa_Controlador_OrdenCompra.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Capa_Controlador_OrdenCompra\obj\Debug\Capa_Controlador_OrdenCompra.pdb

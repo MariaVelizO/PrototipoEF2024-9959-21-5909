@@ -1,0 +1,5 @@
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Contabilidad\Capa_Modelo_Contabilidad\bin\Debug\Capa_Modelo_Contabilidad.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Contabilidad\Capa_Modelo_Contabilidad\bin\Debug\Capa_Modelo_Contabilidad.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Contabilidad\Capa_Modelo_Contabilidad\obj\Debug\Capa_Modelo_Contabilidad.csproj.CoreCompileInputs.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Contabilidad\Capa_Modelo_Contabilidad\obj\Debug\Capa_Modelo_Contabilidad.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Contabilidad\Capa_Modelo_Contabilidad\obj\Debug\Capa_Modelo_Contabilidad.pdb

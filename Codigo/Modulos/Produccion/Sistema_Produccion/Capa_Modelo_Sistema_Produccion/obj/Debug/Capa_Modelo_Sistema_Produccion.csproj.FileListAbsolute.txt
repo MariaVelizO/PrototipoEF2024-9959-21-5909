@@ -1,0 +1,5 @@
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Sistema_Produccion\Capa_Modelo_Sistema_Produccion\bin\Debug\Capa_Modelo_Sistema_Produccion.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Sistema_Produccion\Capa_Modelo_Sistema_Produccion\bin\Debug\Capa_Modelo_Sistema_Produccion.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Sistema_Produccion\Capa_Modelo_Sistema_Produccion\obj\Debug\Capa_Modelo_Sistema_Produccion.csproj.CoreCompileInputs.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Sistema_Produccion\Capa_Modelo_Sistema_Produccion\obj\Debug\Capa_Modelo_Sistema_Produccion.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Sistema_Produccion\Capa_Modelo_Sistema_Produccion\obj\Debug\Capa_Modelo_Sistema_Produccion.pdb

@@ -1,0 +1,5 @@
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Componentes\Seguridad\Capa_Modelo_Seguridad\bin\Debug\Capa_Modelo_Seguridad.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Componentes\Seguridad\Capa_Modelo_Seguridad\bin\Debug\Capa_Modelo_Seguridad.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Componentes\Seguridad\Capa_Modelo_Seguridad\obj\Debug\Capa_Modelo_Seguridad.csproj.CoreCompileInputs.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Componentes\Seguridad\Capa_Modelo_Seguridad\obj\Debug\Capa_Modelo_Seguridad.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Componentes\Seguridad\Capa_Modelo_Seguridad\obj\Debug\Capa_Modelo_Seguridad.pdb

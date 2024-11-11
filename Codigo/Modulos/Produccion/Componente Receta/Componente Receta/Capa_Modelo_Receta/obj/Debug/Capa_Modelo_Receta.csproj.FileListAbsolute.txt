@@ -1,0 +1,5 @@
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Componente Receta\Componente Receta\Capa_Modelo_Receta\bin\Debug\Capa_Modelo_Receta.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Componente Receta\Componente Receta\Capa_Modelo_Receta\bin\Debug\Capa_Modelo_Receta.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Componente Receta\Componente Receta\Capa_Modelo_Receta\obj\Debug\Capa_Modelo_Receta.csproj.CoreCompileInputs.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Componente Receta\Componente Receta\Capa_Modelo_Receta\obj\Debug\Capa_Modelo_Receta.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Componente Receta\Componente Receta\Capa_Modelo_Receta\obj\Debug\Capa_Modelo_Receta.pdb

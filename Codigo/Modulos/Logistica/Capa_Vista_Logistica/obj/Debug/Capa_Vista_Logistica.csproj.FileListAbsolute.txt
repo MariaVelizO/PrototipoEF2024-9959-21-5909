@@ -1,0 +1,13 @@
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Logistica\Capa_Vista_Logistica\obj\Debug\Capa_Vista_Logistica.csproj.AssemblyReference.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Logistica\Capa_Vista_Logistica\obj\Debug\Capa_Vista_Logistica.Almacenes.resources
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Logistica\Capa_Vista_Logistica\obj\Debug\Capa_Vista_Logistica.FormPrincipal.resources
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Logistica\Capa_Vista_Logistica\obj\Debug\Capa_Vista_Logistica.Locales.resources
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Logistica\Capa_Vista_Logistica\obj\Debug\Capa_Vista_Logistica.LineaNav.resources
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Logistica\Capa_Vista_Logistica\obj\Debug\Capa_Vista_Logistica.MarcaNav.resources
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Logistica\Capa_Vista_Logistica\obj\Debug\Capa_Vista_Logistica.MantenimientoNav.resources
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Logistica\Capa_Vista_Logistica\obj\Debug\Capa_Vista_Logistica.Movimientos.resources
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Logistica\Capa_Vista_Logistica\obj\Debug\Capa_Vista_Logistica.Frm_Polizas.resources
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Logistica\Capa_Vista_Logistica\obj\Debug\Capa_Vista_Logistica.Properties.Resources.resources
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Logistica\Capa_Vista_Logistica\obj\Debug\Capa_Vista_Logistica.TrasDProductos.resources
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Logistica\Capa_Vista_Logistica\obj\Debug\Capa_Vista_Logistica.csproj.GenerateResource.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Logistica\Capa_Vista_Logistica\obj\Debug\Capa_Vista_Logistica.csproj.CoreCompileInputs.cache

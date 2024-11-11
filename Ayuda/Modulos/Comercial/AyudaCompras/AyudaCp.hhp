@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=AyudaCp.chm
+Contents file=ayuda.hhc
+Default Window=CompraAyuda
+Display compile progress=No
+Language=0x100a Español (Guatemala)
+
+[WINDOWS]
+CompraAyuda="Ayuda para usuario","ayuda.hhc",,"CompraAyuda.html",,,,,,0x23520,,0x387e,,,,,,,,0
+
+
+[FILES]
+CompraAyuda.html
+
+[INFOTYPES]
+

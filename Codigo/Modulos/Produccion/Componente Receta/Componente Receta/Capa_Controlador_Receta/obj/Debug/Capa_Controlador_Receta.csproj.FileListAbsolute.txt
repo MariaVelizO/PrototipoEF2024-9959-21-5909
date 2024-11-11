@@ -1,0 +1,9 @@
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Componente Receta\Componente Receta\Capa_Controlador_Receta\obj\Debug\Capa_Controlador_Receta.csproj.CoreCompileInputs.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Componente Receta\Componente Receta\Capa_Controlador_Receta\bin\Debug\Capa_Controlador_Receta.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Componente Receta\Componente Receta\Capa_Controlador_Receta\bin\Debug\Capa_Controlador_Receta.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Componente Receta\Componente Receta\Capa_Controlador_Receta\bin\Debug\Capa_Modelo_Receta.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Componente Receta\Componente Receta\Capa_Controlador_Receta\bin\Debug\Capa_Modelo_Receta.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Componente Receta\Componente Receta\Capa_Controlador_Receta\obj\Debug\Capa_Controlador_Receta.csproj.AssemblyReference.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Componente Receta\Componente Receta\Capa_Controlador_Receta\obj\Debug\Capa_Controlador_Receta.csproj.CopyComplete
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Componente Receta\Componente Receta\Capa_Controlador_Receta\obj\Debug\Capa_Controlador_Receta.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Componente Receta\Componente Receta\Capa_Controlador_Receta\obj\Debug\Capa_Controlador_Receta.pdb

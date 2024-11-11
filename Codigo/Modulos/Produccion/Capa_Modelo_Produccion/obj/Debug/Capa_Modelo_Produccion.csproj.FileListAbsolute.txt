@@ -1,0 +1,6 @@
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Capa_Modelo_Produccion\bin\Debug\Capa_Modelo_Produccion.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Capa_Modelo_Produccion\bin\Debug\Capa_Modelo_Produccion.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Capa_Modelo_Produccion\obj\Debug\Capa_Modelo_Produccion.csproj.AssemblyReference.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Capa_Modelo_Produccion\obj\Debug\Capa_Modelo_Produccion.csproj.CoreCompileInputs.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Capa_Modelo_Produccion\obj\Debug\Capa_Modelo_Produccion.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Capa_Modelo_Produccion\obj\Debug\Capa_Modelo_Produccion.pdb

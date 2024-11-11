@@ -1,0 +1,17 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=AyudaCompras.chm
+Contents file=ayudacompra.hhc
+Default Window=AyudaCompras
+Display compile progress=No
+Language=0x100a Español (Guatemala)
+
+[WINDOWS]
+AyudaCompras="Ayudas para realizar el apartado de Compras","ayudacompra.hhc",,"AYUDA COMPRAS.html",,,,,,0x23520,,0x387e,,,,,,,,0
+
+
+[FILES]
+AYUDA COMPRAS.html
+
+[INFOTYPES]
+

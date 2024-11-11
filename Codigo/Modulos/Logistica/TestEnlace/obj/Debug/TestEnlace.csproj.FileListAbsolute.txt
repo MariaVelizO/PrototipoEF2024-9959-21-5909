@@ -1,0 +1,2 @@
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Logistica\TestEnlace\obj\Debug\TestEnlace.csproj.AssemblyReference.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Logistica\TestEnlace\obj\Debug\TestEnlace.csproj.CoreCompileInputs.cache
