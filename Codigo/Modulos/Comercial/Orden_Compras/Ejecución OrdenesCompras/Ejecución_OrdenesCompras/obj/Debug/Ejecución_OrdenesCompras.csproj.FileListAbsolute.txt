@@ -1,0 +1,51 @@
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\Ejecución_OrdenesCompras.exe.config
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\Ejecución_OrdenesCompras.exe
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\Ejecución_OrdenesCompras.pdb
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\Capa_Vista_OrdenCompra.dll
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\Capa_Controlador_OrdenCompra.dll
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\Capa_Modelo_OrdenCompra.dll
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\Capa_Vista_OrdenCompra.pdb
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\Capa_Controlador_OrdenCompra.pdb
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\Capa_Modelo_OrdenCompra.pdb
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\obj\Debug\Ejecución_OrdenesCompras.csproj.AssemblyReference.cache
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\obj\Debug\Ejecución_OrdenesCompras.Properties.Resources.resources
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\obj\Debug\Ejecución_OrdenesCompras.csproj.GenerateResource.cache
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\obj\Debug\Ejecución_OrdenesCompras.csproj.CoreCompileInputs.cache
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\obj\Debug\Ejecución_OrdenesCompras.csproj.CopyComplete
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\obj\Debug\Ejecución_OrdenesCompras.exe
+C:\Users\maria\Prueba Proyecto módulo\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compra\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\obj\Debug\Ejecución_OrdenesCompras.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\Ejecución_OrdenesCompras.exe.config
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\Ejecución_OrdenesCompras.exe
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\Ejecución_OrdenesCompras.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\Capa_Vista_OrdenCompra.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\Capa_Controlador_OrdenCompra.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\Capa_Modelo_OrdenCompra.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\ShockwaveFlashObjects.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\stdole.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\Capa_Vista_OrdenCompra.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\Capa_Controlador_OrdenCompra.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\bin\Debug\Capa_Modelo_OrdenCompra.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\obj\Debug\Ejecución_OrdenesCompras.csproj.AssemblyReference.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\obj\Debug\Ejecución_OrdenesCompras.Properties.Resources.resources
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\obj\Debug\Ejecución_OrdenesCompras.csproj.GenerateResource.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\obj\Debug\Ejecución_OrdenesCompras.csproj.CoreCompileInputs.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\obj\Debug\Ejecución_OrdenesCompras.csproj.CopyComplete
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\obj\Debug\Ejecución_OrdenesCompras.exe
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Orden_Compras\Ejecución OrdenesCompras\Ejecución_OrdenesCompras\obj\Debug\Ejecución_OrdenesCompras.pdb

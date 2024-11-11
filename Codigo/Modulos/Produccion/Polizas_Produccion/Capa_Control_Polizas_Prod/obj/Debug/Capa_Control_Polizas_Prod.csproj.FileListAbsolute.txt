@@ -1,0 +1,9 @@
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Polizas_Produccion\Capa_Control_Polizas_Prod\obj\Debug\Capa_Control_Polizas_Prod.csproj.AssemblyReference.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Polizas_Produccion\Capa_Control_Polizas_Prod\obj\Debug\Capa_Control_Polizas_Prod.csproj.CoreCompileInputs.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Polizas_Produccion\Capa_Control_Polizas_Prod\bin\Debug\Capa_Control_Polizas_Prod.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Polizas_Produccion\Capa_Control_Polizas_Prod\bin\Debug\Capa_Control_Polizas_Prod.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Polizas_Produccion\Capa_Control_Polizas_Prod\bin\Debug\Capa_Modelo_Polizas_Prod.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Polizas_Produccion\Capa_Control_Polizas_Prod\bin\Debug\Capa_Modelo_Polizas_Prod.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Polizas_Produccion\Capa_Control_Polizas_Prod\obj\Debug\Capa_Control_Polizas_Prod.csproj.CopyComplete
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Polizas_Produccion\Capa_Control_Polizas_Prod\obj\Debug\Capa_Control_Polizas_Prod.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Polizas_Produccion\Capa_Control_Polizas_Prod\obj\Debug\Capa_Control_Polizas_Prod.pdb

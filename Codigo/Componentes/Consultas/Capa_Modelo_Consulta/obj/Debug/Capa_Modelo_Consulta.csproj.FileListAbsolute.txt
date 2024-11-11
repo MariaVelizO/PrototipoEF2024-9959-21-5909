@@ -1,0 +1,5 @@
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\bin\Debug\Capa_Modelo_Consulta.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\bin\Debug\Capa_Modelo_Consulta.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\obj\Debug\Capa_Modelo_Consulta.csproj.CoreCompileInputs.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\obj\Debug\Capa_Modelo_Consulta.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Componentes\Consultas\Capa_Modelo_Consulta\obj\Debug\Capa_Modelo_Consulta.pdb

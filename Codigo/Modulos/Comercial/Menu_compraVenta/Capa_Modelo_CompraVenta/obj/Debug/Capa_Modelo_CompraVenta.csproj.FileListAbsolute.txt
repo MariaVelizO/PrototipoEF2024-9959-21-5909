@@ -1,0 +1,5 @@
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Menu_compraVenta\Capa_Modelo_CompraVenta\bin\Debug\Capa_Modelo_CompraVenta.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Menu_compraVenta\Capa_Modelo_CompraVenta\bin\Debug\Capa_Modelo_CompraVenta.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Menu_compraVenta\Capa_Modelo_CompraVenta\obj\Debug\Capa_Modelo_CompraVenta.csproj.CoreCompileInputs.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Menu_compraVenta\Capa_Modelo_CompraVenta\obj\Debug\Capa_Modelo_CompraVenta.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Menu_compraVenta\Capa_Modelo_CompraVenta\obj\Debug\Capa_Modelo_CompraVenta.pdb

@@ -1,0 +1,9 @@
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Factura\Capa_Modelo_Factura\obj\Debug\Capa_Modelo_Factura.csproj.CoreCompileInputs.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Factura\Capa_Modelo_Factura\bin\Debug\Capa_Modelo_Factura.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Factura\Capa_Modelo_Factura\bin\Debug\Capa_Modelo_Factura.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Factura\Capa_Modelo_Factura\bin\Debug\Capa_Modelo_Seguridad.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Factura\Capa_Modelo_Factura\bin\Debug\Capa_Modelo_Seguridad.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Factura\Capa_Modelo_Factura\obj\Debug\Capa_Modelo_Factura.csproj.AssemblyReference.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Factura\Capa_Modelo_Factura\obj\Debug\Capa_Modelo_Factura.csproj.CopyComplete
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Factura\Capa_Modelo_Factura\obj\Debug\Capa_Modelo_Factura.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Comercial\Factura\Capa_Modelo_Factura\obj\Debug\Capa_Modelo_Factura.pdb

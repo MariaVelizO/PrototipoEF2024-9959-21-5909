@@ -1,0 +1,5 @@
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Componente RRHH\Componente RRHH\Capa_Modelo_RRHH\bin\Debug\Capa_Modelo_RRHH.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Componente RRHH\Componente RRHH\Capa_Modelo_RRHH\bin\Debug\Capa_Modelo_RRHH.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Componente RRHH\Componente RRHH\Capa_Modelo_RRHH\obj\Debug\Capa_Modelo_RRHH.csproj.CoreCompileInputs.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Componente RRHH\Componente RRHH\Capa_Modelo_RRHH\obj\Debug\Capa_Modelo_RRHH.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Componente RRHH\Componente RRHH\Capa_Modelo_RRHH\obj\Debug\Capa_Modelo_RRHH.pdb

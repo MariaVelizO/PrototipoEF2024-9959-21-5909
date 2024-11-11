@@ -1,0 +1,5 @@
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Ordenes de Produccion\Capa_Modelo_Ordenes\bin\Debug\Capa_Modelo_Ordenes.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Ordenes de Produccion\Capa_Modelo_Ordenes\bin\Debug\Capa_Modelo_Ordenes.pdb
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Ordenes de Produccion\Capa_Modelo_Ordenes\obj\Debug\Capa_Modelo_Ordenes.csproj.CoreCompileInputs.cache
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Ordenes de Produccion\Capa_Modelo_Ordenes\obj\Debug\Capa_Modelo_Ordenes.dll
+C:\Users\maria\ProyectoFinalAnalisis\asis22k24proy2\Codigo\Modulos\Produccion\Ordenes de Produccion\Capa_Modelo_Ordenes\obj\Debug\Capa_Modelo_Ordenes.pdb
